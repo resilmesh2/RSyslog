@@ -1,1 +1,1 @@
-# RSyslog
+# Wazuh - RSyslog
